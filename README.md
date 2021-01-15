@@ -5,7 +5,8 @@ This is homework assignment utilze vba scrpting to analze real stock market data
 ## Instructions
 
 
-Create a script that will lopp through all the stocks for one year and output the folloing info
+Create a script that will lopp through all the stocks for one year and output the folloing info..
+
   Ticker symbol
   
   Yearly Change 
@@ -16,5 +17,6 @@ Create a script that will lopp through all the stocks for one year and output th
   
   Conditional formattting (- and +) 
   
-  ##Reults 
+  ## Reults 
+  
   
