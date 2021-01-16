@@ -22,4 +22,11 @@ Create a script that will loop through all the stocks for one year and output th
   
   ## Results 
   
+  Screenshot: 2014 Stock Market 
+  /Users/hyonis/Desktop/Github Repo/VBA_Challenge/images_1/2014.png
   
+  Screenshot: 2015 Stock Market
+  /Users/hyonis/Desktop/Github Repo/VBA_Challenge/images_1/2015.png
+  
+  Screenshot: 2016 Stock Market 
+  /Users/hyonis/Desktop/Github Repo/VBA_Challenge/images_1/2016.png
